@@ -1,0 +1,28 @@
+.navbar{
+    background: #286090;
+}
+.navbar a{
+color: #ddd;
+text-decoration: none;
+}
+.navbar a:hover{
+color: #f0f0f0;
+
+text-decoration: none;
+cursor: pointer;
+}
+a[title="Record"]{
+    color: #99351c;
+    font-weight: bolder; 
+}
+a[title="Record"]:hover{
+    color: #ff3434;
+    
+}
+.navbar-toggle:hover .icon-bar{
+    background: white;
+}
+.navbar-toggle .icon-bar{
+    background: #ddd;
+}
+
